@@ -20,11 +20,12 @@ Highly motivated **Fullstack Developer** with proven ability to deliver function
 | **Category**       | **Technologies**                                  |
 |--------------------|--------------------------------------------------|
 | **Frontend**       | React, Vue.js, JavaScript (ES6+), HTML5/CSS3     |
-| **Backend**        | Node.js, Express, PHP(learning), Laravel (Learning)       |
-| **Databases**      | MongoDB, MySQL                                   |
+| **Backend**        | Node.js, Express, Nest.js, Typescript, PHP(learning), Laravel (Learning) |
+| **Databases**      | NoSQL,Relational Databases (SQL)                 |
 | **Tools**          | Git, Postman, REST APIs, Pug                     |
 | **Concepts**       | MVC Architecture, Agile Basics                   |
-
+| **Cloud Platforms** | AWS, Firebase, Google Cloud, Netlify, Vercel, Render |
+| **DevOps Tools**    | Jenkins, Docker, Git, GitHub Actions            |
 ---
 <!-- ===== PROJECT EXPERIENCE ===== -->
 ## 🔨 **Project Highlights**  
